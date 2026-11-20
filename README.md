@@ -1,0 +1,2 @@
+# humanise
+EDU AI Hackathon
