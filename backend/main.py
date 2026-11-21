@@ -133,7 +133,7 @@ export default function App() {
                 }}
               >
                 <Popup>
-                  <strong>{c.district}</strong> —{" "}
+                  <strong>{c.district}</strong> {" "}
                   {c.high_risk === 1 ? "High Risk" : "Low Risk"}
                 </Popup>
               </CircleMarker>
